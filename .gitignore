@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code & IDE
+.vscode/
+.idea/
+
+# 環境變數 & 秘密檔
+.env
+.env.*
+
+# Docker override
+docker-compose.override.yml
+
+# 系統檔
+.DS_Store
