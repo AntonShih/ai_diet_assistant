@@ -6,3 +6,5 @@ python-dotenv
 pymongo
 langchain
 langgraph
+line-bot-sdk       # LINE Bot 用
+beautifulsoup4     # 爬蟲（選用）
